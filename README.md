@@ -36,6 +36,6 @@ The workflow includes:
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](https://github.com/username/repo-name/blob/main/Images/Dashboard.png?raw=true)
+![Dashboard Screenshot](https://github.com/irishdaniellesantos/powerbi-career-insights-dashboard/blob/main/Dashboard.pdf)
 
 
