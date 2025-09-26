@@ -1,4 +1,4 @@
-# Power BI Final Project – Data Professionals Survey Dashboard  
+# Power BI Project – Data Professionals Survey Dashboard  
 
 ## Project Overview  
 This project takes a **real-world survey dataset** from data professionals and transforms it into a clean, interactive dashboard using **Power BI**.  
